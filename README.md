@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/Instagram-hotpink?logo=instagram&logoColor=white" />
 </a>
 
+<br><br>
+
 <img src="https://user-images.githubusercontent.com/74957603/115759211-f4c9dc80-a3da-11eb-95c1-3f5a10f9e0c8.png" />
 
 <br><br><br>
