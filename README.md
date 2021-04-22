@@ -11,10 +11,10 @@
 <img src="https://img.shields.io/badge/instagram-hotpink?logo=instagram&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
 ![image](https://user-images.githubusercontent.com/74957603/115762375-5c355b80-a3de-11eb-9b47-8df8dd2ee6e6.png)
 
-<br><br><br>
+<br>
 </div>
 
