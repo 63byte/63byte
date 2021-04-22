@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://www.instagram.com/63_byte/">
-<img src="https://img.shields.io/badge/instagram-hotpink?logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/instagram-FF007F?logo=instagram&logoColor=white" />
 </a>
 
 <br><br>
