@@ -4,11 +4,11 @@
 <br>
 
 <a href="https://www.notion.so/2f4ad78da77d40fea6aa8d5aa9c2085a">
-  <img src="https://img.shields.io/badge/Notion-black?logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/portfolio-black?logo=notion&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/63_byte/">
-<img src="https://img.shields.io/badge/Instagram-hotpink?logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/instagram-hotpink?logo=instagram&logoColor=white" />
 </a>
 
 <br><br>
