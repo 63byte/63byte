@@ -4,6 +4,10 @@
 
 <br>
 
+![image](https://user-images.githubusercontent.com/74957603/115996312-bd953e80-a619-11eb-9412-62380018b774.png)
+<br><br>
+
+
 ## 👇 𝙈𝙀
 <a href="https://www.notion.so/2f4ad78da77d40fea6aa8d5aa9c2085a">
   <img src="https://img.shields.io/badge/portfolio-000000?logo=notion&logoColor=white" />
@@ -14,10 +18,6 @@
 </a>
 
 <br><br>
-
-![image](https://user-images.githubusercontent.com/74957603/115996312-bd953e80-a619-11eb-9412-62380018b774.png)
-<br><br>
-
 
 ## 🎈 𝙎𝙠𝙞𝙡𝙡 
 <span>
