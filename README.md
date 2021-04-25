@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/instagram-FF007F?logo=instagram&logoColor=white" />
 </a>
 
-<br>
+<br><br>
 
 ![image](https://user-images.githubusercontent.com/74957603/115996312-bd953e80-a619-11eb-9412-62380018b774.png)
 <br><br>
