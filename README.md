@@ -32,6 +32,6 @@
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" />
 </span>
 
-<br>
+<br><br>
 </div>
 
